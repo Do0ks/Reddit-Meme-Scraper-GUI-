@@ -3,7 +3,7 @@
 ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDgwOTk0NGRiM2I2ZTE3ZmUxNTU2ZTk1YjI0YTEyNWRiZDM0MDExYyZjdD1n/1AcGBtJoFERB9ZTi74/giphy.gif)  
   
 <b>Discription:</b>  
-A simple Reddit meme scraper with a GUI using Ktinker.  
+A simple Reddit meme scraper with a GUI using Tkinker.  
 Nothing much to say about this one besides you pick your Sub Reddit, pick the download location and start.  
 I made this for my custom discord bots i made and thought i would share!  
 
