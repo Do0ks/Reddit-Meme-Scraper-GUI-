@@ -12,3 +12,6 @@ You must get your Client_ID and Client_Secret througt the reddit developer porta
 See https://www.reddit.com/dev/api/ for more information on reddits API.
 
 <b>Donations:</b> https://paypal.me/automationz?country.x=US&locale.x=en_US
+
+<b>Cheat Engine Tables:</b>
+https://cheattables.net
